@@ -1,0 +1,9 @@
+[Core]
+Name = DevOps Reactions
+Module = devops
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = It returns a gif from devopsreactions.tumblr.com.
